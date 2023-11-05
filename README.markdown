@@ -6,12 +6,12 @@ support using libpcre++.  Install the package with the current Debian
 distribution as follows:
 
     sudo apt-get install libpcre++-dev
-    go get github.com/glenn-brown/golang-pkg-pcre/src/pkg/pcre
+    go get github.com/SupremeERG/golang-pkg-pcre/src/pkg/pcre
 
 Go programs that depend on this package should import this package as
 follows to allow automatic downloading:
 
-    import "github.com/glenn-brown/golang-pkg-pcre/src/pkg/pcre"
+    import "github.com/SupremeERG/golang-pkg-pcre/src/pkg/pcre"
 
 This is a clone of
 [golang-pkg-pcre](http://git.enyo.de/fw/debian/golang-pkg-pcre.git)
